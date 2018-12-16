@@ -1,0 +1,73 @@
+
+#link {
+  padding: 10px;
+}
+
+#name {
+  background-color: aqua;
+  padding: 5px 15px; 
+  font-family: cursive
+}
+
+.navbar {
+  border-bottom: 2px solid black
+}
+
+.contact-form {
+  display: block;
+  margin: 20px auto;
+  width: 80%;
+}
+
+footer {
+  text-align: center;
+  margin: 0 0 10px 0;
+  padding: 20px;
+  clear: both;
+}
+
+#jeffsPic {
+  float: left;
+  margin-right: 10px;
+}
+
+.about {
+  padding: 20px;
+}
+
+.body {
+  margin: 20px; 
+  background-color: white;
+}
+
+
+.projects {
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  background-color: white;
+  padding: 20px;
+}
+
+.projects-two {
+  width: 80%;
+  margin: auto;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  background-color: white;
+  padding:  20px;
+}
+
+#last {
+  opacity: 0;
+}
+
+.main {
+  background-color: lightslategray;
+}
+
+form {
+  background-color: white;
+  padding: 20px;
+}
